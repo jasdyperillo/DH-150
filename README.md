@@ -20,24 +20,27 @@ The app features a map that has actively tracks the location of the van designat
 **Severity rating: 1**
 
 ### #2: Match between system and real world
-Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. For me personally, this incongruency has sometimes discouraged me from using the van service entirely and resort to either walking 
+Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. The app also provides the user with an "Average pick up time" that, again, in my own experience, has not always been the most accurate. For me personally, these inaccuracies have sometimes discouraged me from using the van service entirely and resort to a different method of getting to where I need to be. 
 
 **Severity rating: 2**
 
 ### #3: User control and freedom
-After requesting a ride, the user does have the option to cancel their request. 
+After requesting a ride, the user does have the option to cancel their request.
 
 
-**Severity rating: **
+**Severity rating: 1**
 
 ### #4: Consistency and standards
+While the app clearly marks every designated stop, if the user selects their desired pick-up and drop-off locations using the drop-down menus instead of selecting points on the map, the map disappears from the screen as the user actively enters their pick-up/drop-off locations. This means, for example, if the user does not know the name of the stop and only remembers its location on the map, they will have to exit the current screen with the drop-down/scrolling menu that lists the designated stops to look back at the map again. 
 
-Example:
+**Severity rating:2 **
+
+![consistencyandstandards](https://drive.google.com/uc?id=110skYLNP9QN4N7Na_sZT_Z2HugPjj4Nq)
 
 ### #5: Error prevention
 Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
 
-**Severity rating: 1**
+**Severity rating:1 **
 
 ![errorprevention](https://drive.google.com/uc?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
 
@@ -48,12 +51,12 @@ The app lacks a feature that would allow the user to autofill their designated p
 **Severity rating: **
 
 ### #7: Flexibility and efficiency of use
-
+The user is able to select their designated pick-up/drop-off locations by directly clicking on the points marked on the map. 
 Example:
 
 ### #8: Aesthetic and minimalist design
-
-Example:
+For the most part, the UCLASafeRide app is consistent with the general branding of other UCLA related apps and UCLA in general. It uses mainly blue and yellow/gold colors in its design, which are the university's colors. The app, which is reminiscent of—if not based on— Apple's iMaps app, is relatively intuitive to navigate. While its design is minimalist, it does feature landmarks on the map like certain stores, businesses, and buildings, which do help the user ascertain which are the most suitable stops for pick-up and drop-off. 
+**Severity rating: **
 
 ### #9: Help users recognize, diagnose, and recover from errors
 
