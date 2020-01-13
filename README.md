@@ -125,9 +125,9 @@ There is an error message for users who have poor network connectivity. If a 'pa
 ![recognizediagnoserecoverfromerrors](https://drive.google.com/uc?id=1-FU6CbVyQO630PRYMcost4KQTFNyg7jy)
 
 ### #10: Help and documentation
-Co—Star does have a feedback form as well as a FAQ page
+Co—Star does have a feedback form as well as a FAQ page. The feedback form also lists an e-mail that users can use to contact the app developers if they have any questions or concerns.
 
-**Severity rating: **
+**Severity rating: 1**
 
 ![helpanddocumentation2](https://drive.google.com/uc?id=1nyRcg4Vy4FBCqD0_amRbvXpVBXiCk3ff)
 ![helpanddocumentation3](https://drive.google.com/uc?export=view&id=1eNEwlsQ39hb3v2xB-TaDPX3ck-We9lPU)
