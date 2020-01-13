@@ -91,7 +91,7 @@ Right when you open the app—given that you're already logged in, Co—Star dis
 
 **Severity rating: **
 
-### #3: User control and freedom
+### #3: User control and freedom 
 
 **Severity rating: **
 
