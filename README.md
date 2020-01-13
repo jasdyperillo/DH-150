@@ -27,20 +27,19 @@ Based on my numerous experiences in using the app, I have personally found that 
 ### #3: User control and freedom
 After requesting a ride, the user does have the option to cancel their request.
 
-
 **Severity rating: 1**
 
 ### #4: Consistency and standards
 While the app clearly marks every designated stop, if the user selects their desired pick-up and drop-off locations using the drop-down menus instead of selecting points on the map, the map disappears from the screen as the user actively enters their pick-up/drop-off locations. This means, for example, if the user does not know the name of the stop and only remembers its location on the map, they will have to exit the current screen with the drop-down/scrolling menu that lists the designated stops to look back at the map again. 
 
-**Severity rating:2 **
+**Severity rating: 2**
 
 ![consistencyandstandards](https://drive.google.com/uc?id=110skYLNP9QN4N7Na_sZT_Z2HugPjj4Nq)
 
 ### #5: Error prevention
 Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
 
-**Severity rating:1 **
+**Severity rating: 1**
 
 ![errorprevention](https://drive.google.com/uc?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
 
@@ -59,8 +58,9 @@ For the most part, the UCLASafeRide app is consistent with the general branding 
 **Severity rating: **
 
 ### #9: Help users recognize, diagnose, and recover from errors
+The app, which largely relies on the integration of live location tracking, naturally requires a good network connection from the user. If the user loses or maintains poor network connectivity, 
 
-Example:
+**Severity rating: **
 
 ### #10: Help and documentation
 The UCLASafeRide app only has an option to submit "Feedback," which takes the user to the Apple Mail app. Aside from this, there is an absence of any FAQ (Frequently Asked Questions) page or help page. Moreover, if a user needed some sort of immediate assistance, there is no phone number listed or any system set up that could provide live online help. 
@@ -82,40 +82,40 @@ sajdvhasjkd
 
 ### #1: Visibility of system status
 
-Example:
+**Severity rating: **
 
 ### #2: Match between system and real world
 
-Example:
+**Severity rating: **
 
 ### #3: User control and freedom
 
-Example:
+**Severity rating: **
 
 ### #4: Consistency and standards
 
-Example:
+**Severity rating: **
 
 ### #5: Error prevention
 
-Example:
+**Severity rating: **
 
 ### #6: Recognition rather than recall
 
-Example:
+**Severity rating: **
 
 ### #7: Flexibility and efficiency of use
 
-Example:
+**Severity rating: **
 
 ### #8: Aesthetic and minimalist design
 
-Example:
+**Severity rating: **
 
 ### #9: Help users recognize, diagnose, and recover from errors
 
-Example:
+**Severity rating: **
 
 ### #10: Help and documentation
 
-Example:
+**Severity rating: **
