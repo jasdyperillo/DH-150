@@ -96,7 +96,7 @@ Right when you open the app—given that you're already logged in, Co—Star dis
 **Severity rating: **
 
 ### #4: Consistency and standards
-
+Co
 **Severity rating: **
 
 ### #5: Error prevention
@@ -108,10 +108,16 @@ Right when you open the app—given that you're already logged in, Co—Star dis
 **Severity rating: **
 
 ### #7: Flexibility and efficiency of use
-The app allows the user to bookmark and save any horoscopes or astrology updates so that the user can easily peruse and access them later on. 
+The app allows the user to bookmark and save any horoscopes or astrology updates so that the user can easily peruse and access them later on. When a user would like to send a message through Co—Star to a friend, Co—Star provides a list of "suggested" friends for the user's ease.
+
+![flexibilityandefficiencyofuse1](https://drive.google.com/uc?id=16rwWsyPT-HhohZpGdp0feQVSvQcqiMRY)
+
 Although the app does alphabetize the user's friends list, Co—Star lacks a search bar that would allow users to simply type in a friend's name/username. Instead, the user has to manually scroll and find a specific name if they want to look at their Co—Star 'relationship' with a certain someone. 
 
+![flexibilityandefficiencyofuse2](https://drive.google.com/uc?id=1AJMWVQawU9wfcxieanR8kuUGmukl5NyW)
+
 **Severity rating: 2**
+
 
 ### #8: Aesthetic and minimalist design 
 Co—Star follows a relatively sleek design that is primarily grayscale, with the exception of the use of emojis which are used as indicators for different categories of a user's daily horoscope. Even the graphics follow a grayscale color palette. Certain aspects of the app may be word-heavy for some users 
