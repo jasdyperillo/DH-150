@@ -114,6 +114,7 @@ Although the app does alphabetize the user's friends list, Co—Star lacks a sea
 **Severity rating: 2**
 
 ### #8: Aesthetic and minimalist design 
+Co—Star follows a relatively sleek design that is primarily grayscale, with the exception of the use of emojis which are used as indicators for different categories of a user's daily horoscope. Even the graphics follow a grayscale color palette. Certain aspects of the app may be word-heavy for some users 
 
 **Severity rating: **
 
@@ -125,9 +126,11 @@ There is an error message for users who have poor network connectivity. If a 'pa
 ![recognizediagnoserecoverfromerrors](https://drive.google.com/uc?id=1-FU6CbVyQO630PRYMcost4KQTFNyg7jy)
 
 ### #10: Help and documentation
-Co—Star does have a feedback form as well as a FAQ page. The feedback form also lists an e-mail that users can use to contact the app developers if they have any questions or concerns.
+Co—Star does have a feedback form as well as a FAQ page. The feedback form also lists an e-mail that users can use to contact the app developers if they have any questions or concerns. At the bottom of the user's daily horoscope update, the app asks the user "Was this useful?" to which the user can respond by clicking one of three options: a smiley face, a frown face, or an 'indifferent' face.
 
 **Severity rating: 1**
 
 ![helpanddocumentation2](https://drive.google.com/uc?id=1nyRcg4Vy4FBCqD0_amRbvXpVBXiCk3ff)
 ![helpanddocumentation3](https://drive.google.com/uc?export=view&id=1eNEwlsQ39hb3v2xB-TaDPX3ck-We9lPU)
+![helpanddocumentation4](https://drive.google.com/uc?id=1R2lH21VCZrgm3XzqRwjiSgGzuO8TwpM0)
+
