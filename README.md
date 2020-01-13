@@ -15,16 +15,20 @@ Link to Download: https://play.google.com/store/apps/details?id=com.doublemap.ta
 avjkhdslakjvh
 
 ### #1: Visibility of system status
+The app features a map that has actively tracks the location of the van designated to pick up the user. The tracking isn't the most smooth. In terms of graphic design, the movement of the van is choppy and not very seamless.
 
-Example:
+**Severity rating: 1**
 
 ### #2: Match between system and real world
+Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. For me personally, this incongruency has sometimes discouraged me from using the van service entirely and resort to either walking 
 
-Example:
+**Severity rating: 2**
 
 ### #3: User control and freedom
+After requesting a ride, the user does have the option to cancel their request. 
 
-Example:
+
+**Severity rating: **
 
 ### #4: Consistency and standards
 
@@ -35,8 +39,9 @@ Example:
 Example:
 
 ### #6: Recognition rather than recall
+The app lacks a feature that would allow the user to autofill their designated pick-up and drop-off spots based on most popular or most recent trips. This option would streamline the process of requesting a ride for users who routinely use the service to go to and from the same locations on a regular basis. On the bright side, however, a person does not routinely have to login to their MyUCLA account every time the user opens and uses the app. Instead, the person remains logged in unless the user manually clicks on the appropriate "Log out" button. 
 
-Example:
+**Severity rating: **
 
 ### #7: Flexibility and efficiency of use
 
@@ -51,8 +56,9 @@ Example:
 Example:
 
 ### #10: Help and documentation
+The UCLASafeRide app only has an option to submit "Feedback," which takes the user to the Apple Mail app. Aside from this, there is an absence of any FAQ (Frequently Asked Questions) page or help page. Moreover, if a user needed some sort of immediate assistance, there is no phone number listed or any system set up that could provide live online help. 
 
-Example:
+**Severity rating: 2**
 
 
 
