@@ -41,7 +41,7 @@ Because the UCLASafeRide only offers the van service on certain days for a set t
 
 ![image](https://drive.google.com/open?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
 
-### #6: Recognition rather than recall
+### #6: Recognition rather than recall 
 The app lacks a feature that would allow the user to autofill their designated pick-up and drop-off spots based on most popular or most recent trips. This option would streamline the process of requesting a ride for users who routinely use the service to go to and from the same locations on a regular basis. On the bright side, however, a person does not routinely have to login to their MyUCLA account every time the user opens and uses the app. Instead, the person remains logged in unless the user manually clicks on the appropriate "Log out" button. 
 
 **Severity rating: **
