@@ -126,4 +126,8 @@ There is an error message for users who have poor network connectivity. If a 'pa
 
 ### #10: Help and documentation
 Co—Star does have a feedback form as well as a FAQ page
+
 **Severity rating: **
+
+![helpanddocumentation2](https://drive.google.com/uc?id=1nyRcg4Vy4FBCqD0_amRbvXpVBXiCk3ff)
+![helpanddocumentation3](https://drive.google.com/uc?export=view&id=1eNEwlsQ39hb3v2xB-TaDPX3ck-We9lPU)
