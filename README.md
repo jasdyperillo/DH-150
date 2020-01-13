@@ -11,6 +11,9 @@ The UCLASafeRide app provides a nighttime van service primarily for UCLA student
 
 Link to Download: https://play.google.com/store/apps/details?id=com.doublemap.tapride.uclasaferide&hl=en_US
 
+## Overall Evaluation
+avjkhdslakjvh
+
 ### #1: Visibility of system status
 
 Example:
@@ -60,6 +63,9 @@ I chose the Co—Star app because it's a pioneer in its 'field.' Co—Star was t
 The Co—Star app provides "hyper-personalized astrology" based on a person's birth chart, which can be discerned through the person's date, time, and place of birth. 
 
 Link to website/link to download: https://www.costarastrology.com/ 
+
+## Overall Evaluation
+sajdvhasjkd
 
 ### #1: Visibility of system status
 
