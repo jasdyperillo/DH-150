@@ -59,3 +59,6 @@ I chose the Co—Star app because it's a pioneer in its 'field.' Co—Star was t
 
 ## Description
 The Co—Star app provides "hyper-personalized astrology" based on a person's birth chart, which can be discerned through the person's date, time, and place of birth. 
+
+
+Link to website/link to download: https://www.costarastrology.com/ 
