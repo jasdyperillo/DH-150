@@ -11,13 +11,17 @@ The UCLASafeRide app provides a nighttime van service primarily for UCLA student
 
 Link to Download: https://play.google.com/store/apps/details?id=com.doublemap.tapride.uclasaferide&hl=en_US
 
-## Overall Evaluation
-avjkhdslakjvh
+## Initial Overall Evaluation
+From a preliminary standpoint, the app is incredibly functional and straightforward in its design. Its execution, for the most part, seems like sufficient
 
 ### #1: Visibility of system status
-The app features a map that has actively tracks the location of the van designated to pick up the user. The tracking isn't the most smooth. In terms of graphic design, the movement of the van is choppy and not very seamless.
+The app features a map that has actively tracks the location of the van designated to pick up the user. The tracking isn't the most smooth. In terms of graphic design, the movement of the van can seem choppy and not seamless. 
+
+Moreover, when app first begins to load, it has a buffering icon, which is a graphic of a red moving car.
 
 **Severity rating: 1**
+
+![visibilityofsystemstatus](https://drive.google.com/uc?id=10BuYykjA-uYCBqcShN9HbMdNiQyUIU4T)
 
 ### #2: Match between system and real world
 Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. The app also provides the user with an "Average pick up time" that, again, in my own experience, has not always been the most accurate. For me personally, these inaccuracies have sometimes discouraged me from using the van service entirely and resort to a different method of getting to where I need to be. 
@@ -56,8 +60,10 @@ The user is able to select their designated pick-up/drop-off locations by direct
 
 
 ### #8: Aesthetic and minimalist design
-For the most part, the UCLASafeRide app is consistent with the general branding of other UCLA related apps and UCLA in general. It uses mainly blue and yellow/gold colors in its design, which are the university's colors. The app, which is reminiscent of—if not based on— Apple's iMaps app, is relatively intuitive to navigate. While its design is minimalist, it does feature landmarks on the map like certain stores, businesses, and buildings, which do help the user ascertain which are the most suitable stops for pick-up and drop-off. 
-**Severity rating: **
+For the most part, the UCLASafeRide app is consistent with the general branding of other UCLA related apps and UCLA in general. It uses mainly blue and yellow/gold colors in its design, which are the university's colors. The app, which is reminiscent of—if not based on— Apple's iMaps app, is relatively intuitive to navigate. It does feature landmarks on the map like certain stores, businesses, and buildings, which do help the user ascertain which are the most suitable stops for pick-up and drop-off. 
+
+Nevertheless, in my opinion, it isn't the most appealing or eye-catching design. Its 'aesthetic' definitely does not encourage me to use the app. The visuals aren't particularly special, nor do they approach or attempt to achieve minimalism in some clever way. The font 
+**Severity rating: 2**
 
 ### #9: Help users recognize, diagnose, and recover from errors
 The app, which largely relies on the integration of live location tracking, naturally requires a good network connection from the user. If the user loses or maintains poor network connectivity, 
@@ -79,7 +85,7 @@ The Co—Star app provides "hyper-personalized astrology" based on a person's bi
 
 Link to website/link to download: https://www.costarastrology.com/ 
 
-## Overall Evaluation
+## Initial Overall Evaluation
 sajdvhasjkd
 
 ### #1: Visibility of system status
