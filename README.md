@@ -84,7 +84,7 @@ Link to website/link to download: https://www.costarastrology.com/
 sajdvhasjkd
 
 ### #1: Visibility of system status
-
+Right when you open the app—given that you're already logged in, Co—Star displays your horoscope and astrological update for the day. If the user wishes to look back and review 
 **Severity rating: **
 
 ### #2: Match between system and real world
@@ -108,17 +108,22 @@ sajdvhasjkd
 **Severity rating: **
 
 ### #7: Flexibility and efficiency of use
+The app allows the user to bookmark and save any horoscopes or astrology updates so that the user can easily peruse and access them later on. 
+Although the app does alphabetize the user's friends list, Co—Star lacks a search bar that would allow users to simply type in a friend's name/username. Instead, the user has to manually scroll and find a specific name if they want to look at their Co—Star 'relationship' with a certain someone. 
 
-**Severity rating: **
+**Severity rating: 2**
 
 ### #8: Aesthetic and minimalist design 
 
 **Severity rating: **
 
 ### #9: Help users recognize, diagnose, and recover from errors
+There is an error message for users who have poor network connectivity. If a 'page' is loading, there is a buffering icon.
 
-**Severity rating: **
+**Severity rating: 1**
+
+![recognizediagnoserecoverfromerrors](https://drive.google.com/uc?id=1-FU6CbVyQO630PRYMcost4KQTFNyg7jy)
 
 ### #10: Help and documentation
-
+Co—Star does have a feedback form as well as a FAQ page
 **Severity rating: **
