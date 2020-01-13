@@ -103,6 +103,9 @@ Co
 
 **Severity rating: **
 
+![errorprevention1](https://drive.google.com/uc?id=1EELmAULf78o6HTcEq0d75M8d5GqMYclE)
+![errorprevention2](https://drive.google.com/uc?id=1HB_YlG1fwxnupYDcsvoP_oW94jPdUUxY)
+
 ### #6: Recognition rather than recall
 
 **Severity rating: **
@@ -122,7 +125,7 @@ Although the app does alphabetize the user's friends list, Co—Star lacks a sea
 ### #8: Aesthetic and minimalist design 
 Co—Star follows a relatively sleek design that is primarily grayscale, with the exception of the use of emojis which are used as indicators for different categories of a user's daily horoscope. Even the graphics follow a grayscale color palette. Certain aspects of the app may be word-heavy for some users 
 
-**Severity rating: **
+**Severity rating: 1**
 
 ### #9: Help users recognize, diagnose, and recover from errors
 There is an error message for users who have poor network connectivity. If a 'page' is loading, there is a buffering icon.
