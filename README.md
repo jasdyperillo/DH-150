@@ -108,7 +108,7 @@ sajdvhasjkd
 
 **Severity rating: **
 
-### #8: Aesthetic and minimalist design
+### #8: Aesthetic and minimalist design 
 
 **Severity rating: **
 
