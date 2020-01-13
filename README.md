@@ -37,9 +37,9 @@ Example:
 ### #5: Error prevention
 Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
 
-**Severity rating:  **
+**Severity rating: 1**
 
-![image](https://drive.google.com/uc?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
+![errorprevention](https://drive.google.com/uc?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
 
 
 ### #6: Recognition rather than recall 
@@ -64,7 +64,7 @@ The UCLASafeRide app only has an option to submit "Feedback," which takes the us
 
 **Severity rating: 2**
 
-
+![helpanddocumentation](https://drive.google.com/uc?id=1PxbYn3GD2kHpx28_gdqvAVWlQreaukGx)
 
 ## 2. Heuristic Evaluation of Co — Star App by Jasdy Perillo
 I chose the Co—Star app because it's a pioneer in its 'field.' Co—Star was the one of the first apps developed that did more than provide users with information about astrology and their personal birth charts. The app has a feature that lets a person add and message friends who also have an account, which allows users to compare their birth charts and daily horoscopes with those of their friends. Co—Star even provides a compatibility 'diagnostic' that analyzes a user's astrological compatibility with a friend. The Co—Star app makes astrology more accessible and its inherent design and mission is to allow users to foster and strengthen the sense of community that they share with those in their lives. I'm curious to see how the app's design accomplishes this and where the app could be improved.
