@@ -50,11 +50,10 @@ The app lacks a feature that would allow the user to autofill their designated p
 **Severity rating: **
 
 ### #7: Flexibility and efficiency of use
-The user is able to select their designated pick-up/drop-off locations by directly clicking on the points marked on the map; however, the app is currently not available for Android users, which detracts from the app's accessibility because it excludes non-iPhone users.
+The user is able to select their designated pick-up/drop-off locations by directly clicking on the points marked on the map.
 
 **Severity rating: 2**
 
-![flexibilityandefficiencyofuse](https://drive.google.com/uc?id=1Gzbru-dvIvQttUqnddMTfylDD-awAJPq)
 
 ### #8: Aesthetic and minimalist design
 For the most part, the UCLASafeRide app is consistent with the general branding of other UCLA related apps and UCLA in general. It uses mainly blue and yellow/gold colors in its design, which are the university's colors. The app, which is reminiscent of—if not based on— Apple's iMaps app, is relatively intuitive to navigate. While its design is minimalist, it does feature landmarks on the map like certain stores, businesses, and buildings, which do help the user ascertain which are the most suitable stops for pick-up and drop-off. 
@@ -92,8 +91,10 @@ Right when you open the app—given that you're already logged in, Co—Star dis
 **Severity rating: **
 
 ### #3: User control and freedom 
+Unfortunately, the app is currently not available for Android users, which detracts from the app's accessibility because it excludes non-iPhone users.
+**Severity rating: 2**
 
-**Severity rating: **
+![usercontrolandfreedom](https://drive.google.com/uc?id=1Gzbru-dvIvQttUqnddMTfylDD-awAJPq)
 
 ### #4: Consistency and standards
 Co
