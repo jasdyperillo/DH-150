@@ -138,5 +138,5 @@ Co—Star does have a feedback form as well as a FAQ page. The feedback form als
 
 ![helpanddocumentation2](https://drive.google.com/uc?id=1nyRcg4Vy4FBCqD0_amRbvXpVBXiCk3ff)
 ![helpanddocumentation3](https://drive.google.com/uc?export=view&id=1eNEwlsQ39hb3v2xB-TaDPX3ck-We9lPU)
-![helpanddocumentation4](https://drive.google.com/uc?id=1R2lH21VCZrgm3XzqRwjiSgGzuO8TwpM0)
+![helpanddocumentation4](https://drive.google.com/uc?id=1R2lH21VCZrgm3XzqRwjiSgGzuO8TwpM0) 
 
