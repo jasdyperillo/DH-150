@@ -34,7 +34,7 @@ While the app clearly marks every designated stop, if the user selects their des
 
 **Severity rating: 2**
 
-![consistencyandstandards](https://drive.google.com/uc?id=110skYLNP9QN4N7Na_sZT_Z2HugPjj4Nq) 
+![consistencyandstandards](https://drive.google.com/uc?id=1q8Ruo_Rg4_oprUHXO5V87mqGIjEWBpxe)
 
 ### #5: Error prevention
 Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
