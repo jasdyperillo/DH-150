@@ -35,8 +35,11 @@ After requesting a ride, the user does have the option to cancel their request.
 Example:
 
 ### #5: Error prevention
+Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
 
-Example:
+**Severity rating:  **
+
+![image](https://drive.google.com/file/d/13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN/view?usp=sharing)
 
 ### #6: Recognition rather than recall
 The app lacks a feature that would allow the user to autofill their designated pick-up and drop-off spots based on most popular or most recent trips. This option would streamline the process of requesting a ride for users who routinely use the service to go to and from the same locations on a regular basis. On the bright side, however, a person does not routinely have to login to their MyUCLA account every time the user opens and uses the app. Instead, the person remains logged in unless the user manually clicks on the appropriate "Log out" button. 
