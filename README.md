@@ -12,63 +12,83 @@ The UCLASafeRide app provides a nighttime van service primarily for UCLA student
 Link to Download: https://play.google.com/store/apps/details?id=com.doublemap.tapride.uclasaferide&hl=en_US
 
 ## Initial Overall Evaluation
-From a preliminary standpoint, the app is incredibly functional and straightforward in its design. Its execution, for the most part, seems like sufficient
+From a preliminary standpoint, the app is incredibly functional and straightforward in its design. Its execution, for the most part, is sufficient, and the area where the app could probably most improve upon is the aesthetic. The design isn't 'clunky,' but it's not particularly pleasing to look at.
 
 ### #1: Visibility of system status
-The app features a map that has actively tracks the location of the van designated to pick up the user. The tracking isn't the most smooth. In terms of graphic design, the movement of the van can seem choppy and not seamless. 
+The UCLASafeRide app features a map that has actively tracks the location of the van designated to pick up the user. The tracking isn't the most smooth. In terms of graphic design, the movement of the van can seem choppy and not seamless. 
+
+![visibilityofsystemstatus1](https://drive.google.com/uc?id=1spvNho7vcx4nVDe1vqRaCz_LsHJ7LnY4)
 
 Moreover, when app first begins to load, it has a buffering icon, which is a graphic of a red moving car.
 
-**Severity rating: 1**
+![visibilityofsystemstatus2](https://drive.google.com/uc?id=10BuYykjA-uYCBqcShN9HbMdNiQyUIU4T)
 
-![visibilityofsystemstatus](https://drive.google.com/uc?id=10BuYykjA-uYCBqcShN9HbMdNiQyUIU4T)
+The app provides the user with an "Average pick up time" that, again, in my own experience, has not always been the most accurate—though it is an average. Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. For me personally, these inaccuracies have sometimes discouraged me from using the van service entirely and resort to a different method of getting to where I need to be. 
+
+![visibilityofsystemstatus3](https://drive.google.com/uc?id=1f8GrkCiZN2u290dNM0wMBNDAutR25qMp)
+
+**Severity rating: 1 or 2**
+
 
 ### #2: Match between system and real world
-Based on my numerous experiences in using the app, I have personally found that on some occasions, the ETA provided by the app for when the van should arrive can be off by several minutes. As a result, a user may not have an accurate gauge for when to expect their van to arrive. The app also provides the user with an "Average pick up time" that, again, in my own experience, has not always been the most accurate. For me personally, these inaccuracies have sometimes discouraged me from using the van service entirely and resort to a different method of getting to where I need to be. 
+The UCLASafeRide app follows a sense of natural mapping. The map has two buttons (+/-) that allow the user to zoom in and out of the map. Moreover, after the user clicks to "Request Ride," the app automatically displays two boxes at the bottom, prompting for the person's pick-up location first, and their drop-off location second. This is a good match between system and real world because naturally, the first location should be where the user would like to be picked up and the second location should be where the user would like to be dropped off. 
 
-**Severity rating: 2**
+![match](https://drive.google.com/uc?id=17yIhzXZF8wDioIZ0vaA251M3srSckK2g )
+
+**Severity rating: 1**
 
 ### #3: User control and freedom
-After requesting a ride, the user does have the option to cancel their request.
+After requesting a ride, the user does have the option to cancel their request. Once the user cancels their ride request, the app prompts them to enter a reason for their cancellation. 
+
+![usercontrol1](https://drive.google.com/uc?id=1gc5DHWvsF7VQTYS_2qAo62ZyqDi6SDG_)
+
+The UCLASafeRide app allows users to choose what kind of map they prefer to look at. They have options of looking at a satellite map, terrain map, a standard street map, etc. 
+
+![usercontrol2](https://drive.google.com/uc?id=1vL07XisKzvxmqwK1R0l46NLzOJ3hcfBA)
 
 **Severity rating: 1**
 
 ### #4: Consistency and standards
-While the app clearly marks every designated stop, if the user selects their desired pick-up and drop-off locations using the drop-down menus instead of selecting points on the map, the map disappears from the screen as the user actively enters their pick-up/drop-off locations. This means, for example, if the user does not know the name of the stop and only remembers its location on the map, they will have to exit the current screen with the drop-down/scrolling menu that lists the designated stops to look back at the map again. 
+Overall, the UCLA SafeRide app maintains a consistent intuitive design. The buttons are all relatively straightforward. The only noticeable downside is that on the map, the designated stops aren't really labeled. A user must click and select the stop on a map to find out its name. In a similar sense, if a user selects their pick-up/drop-off location using the drop down menu, the map disappears. It would be helpful to users to match the geographic location with the listed name of the stop for ease when selecting where to be picked up/dropped off. 
 
-**Severity rating: 2**
+![consistencyandstandards](https://drive.google.com/uc?id=1BsIpzoOPravnnbABtsI_43kbFGFokd0Z)
 
-![consistencyandstandards](https://drive.google.com/uc?id=1q8Ruo_Rg4_oprUHXO5V87mqGIjEWBpxe)
+**Severity rating: 1 or 2**
 
 ### #5: Error prevention
 Because the UCLASafeRide only offers the van service on certain days for a set time period, the user essentially cannot use the app outside of those designated hours. In other words, if it is not some time between 7pm-12am on a weekday (with the exception of holidays and school breaks), the app displays a dark screen that reads "Service Not Active." This prevents any user from requesting a ride outside of the van service's operating hours. 
 
-**Severity rating: 1**
-
 ![errorprevention](https://drive.google.com/uc?id=13YnYi3UFgRineAclEO7xC_Mfeoxg5GJN)
 
+**Severity rating: 1**
 
 ### #6: Recognition rather than recall 
-The app lacks a feature that would allow the user to autofill their designated pick-up and drop-off spots based on most popular or most recent trips. This option would streamline the process of requesting a ride for users who routinely use the service to go to and from the same locations on a regular basis. On the bright side, however, a person does not routinely have to login to their MyUCLA account every time the user opens and uses the app. Instead, the person remains logged in unless the user manually clicks on the appropriate "Log out" button. 
+The app lacks a feature that would allow the user to autofill their designated pick-up and drop-off spots based on most popular or most recent trips. This option would streamline the process of requesting a ride for users who routinely use the service to go to and from the same locations on a regular basis. While users do have the option of 'starring' favorite stops as a way of making them appear at the top of the drop-down menu when selection a pick-up/drop-off location, it would be nice to have an option of autofilling both the pick-up and drop-off locations based on either a frequently made trip or on the user's ride history. Another nice option to have would be if these 'starred' stops which the user has bookmarked were also 'starred' or coded in some way on the actual map to indicate that they are the user's bookmarked stops.
 
-**Severity rating: **
+On the bright side, however, a person does not routinely have to login to their MyUCLA account every time the user opens and uses the app. Instead, the person remains logged in unless the user manually clicks on the appropriate "Log out" button. 
 
-### #7: Flexibility and efficiency of use
-The user is able to select their designated pick-up/drop-off locations by directly clicking on the points marked on the map.
+![recognition](https://drive.google.com/uc?id=1ri6Kk56WZ6Oa-16hQM_zCcc3WlXYEXjk)
 
 **Severity rating: 2**
 
+### #7: Flexibility and efficiency of use
+The user is able to select their designated pick-up/drop-off locations by directly clicking on the points marked on the map. The user can also zoom in and out on any part of the map by pinching in and out with their fingers.
+
+**Severity rating: 1**
 
 ### #8: Aesthetic and minimalist design
 For the most part, the UCLASafeRide app is consistent with the general branding of other UCLA related apps and UCLA in general. It uses mainly blue and yellow/gold colors in its design, which are the university's colors. The app, which is reminiscent of—if not based on— Apple's iMaps app, is relatively intuitive to navigate. It does feature landmarks on the map like certain stores, businesses, and buildings, which do help the user ascertain which are the most suitable stops for pick-up and drop-off. 
 
-Nevertheless, in my opinion, it isn't the most appealing or eye-catching design. Its 'aesthetic' definitely does not encourage me to use the app. The visuals aren't particularly special, nor do they approach or attempt to achieve minimalism in some clever way. The font 
+Nevertheless, in my opinion, it isn't the most appealing or eye-catching design. Its 'aesthetic' definitely does not encourage me to use the app. The visuals aren't particularly special, nor do they approach or attempt to achieve minimalism in some clever way. The font is consistent, but the app logo and its branding doesn't necessarily stand out to me. 
+
 **Severity rating: 2**
 
 ### #9: Help users recognize, diagnose, and recover from errors
-The app, which largely relies on the integration of live location tracking, naturally requires a good network connection from the user. If the user loses or maintains poor network connectivity, 
+The app, which largely relies on the integration of live location tracking, naturally requires a good network connection from the user. If the user loses or maintains poor network connectivity, the app displays an appropriate message that asks the user to check their network connection.
 
-**Severity rating: **
+![recognizediagnoserecover](https://drive.google.com/uc?id=1ZmwR54AY9hsrK87e2sox-BNmWK9PCX-u)
+
+**Severity rating: 1**
 
 ### #10: Help and documentation
 The UCLASafeRide app only has an option to submit "Feedback," which takes the user to the Apple Mail app. Aside from this, there is an absence of any FAQ (Frequently Asked Questions) page or help page. Moreover, if a user needed some sort of immediate assistance, there is no phone number listed or any system set up that could provide live online help. 
