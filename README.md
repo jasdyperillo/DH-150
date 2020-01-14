@@ -109,18 +109,29 @@ Link to website/link to download: https://www.costarastrology.com/
 Right off the bat, I really like the aesthetic of the Co—Star app. The app is quite word-heavy, but understandably so as that is the nature of astrology and horoscopes. I think the app tries its best to be as intuitive as possible, but if a user has absolutely zero knowledge on astrology, it's almost natural to feel overwhelmed by all the information Co—Star provides; nevertheless, I do like the way the app breaks down your birth chart, and it's definitely a lot more user-friendly than other similar apps 'on the market.' 
 
 ### #1: Visibility of system status
-Right when you open the app—given that you're already logged in, Co—Star displays your horoscope and astrological update for the day. If the user wishes to look back and review 
-**Severity rating: **
+Right when you open the app—given that you're already logged in, Co—Star displays your horoscope and astrological update for the day. If the user wishes to look back and review or look ahead (+/- 2 days) for their horoscope, they can do so.
+
+Because a person's astrology depends on the movement of the planets, Co—Star not only analyzes what the planets' movements mean for the user, but also how long each 'transit' or phase will last (e.g. Through Tuesday, Jan 13 2020 to Jan 14 2020).
+
+![visibilityofsystemstatus](https://drive.google.com/uc?id=1OVPoF-PDN3rJE9mX7IQAGdYhbvY1kmIv)
+
+**Severity rating: 1**
 
 ### #2: Match between system and real world
+The Co-Star app features a calendar for users to track their updates, give or take 2 days. While most of the app follows natural reasoning and mapping, this calendar is a bit flawed. For most people, a week either refers to 7 days or the 5-day Monday-to-Friday workweek. It is a bit unnatural to see and use a calendar that only shows 5 days that don't start on Monday and end on Friday. Moreover, users may wish to, at the very least, look back at the whole month, but Co—Star only lets users view the 5 days.
 
-**Severity rating: **
+![match](https://drive.google.com/uc?id=1DqdkvkfKEyFywFD6lCrIN6PKmQJc_zf3)
+
+**Severity rating: 2**
 
 ### #3: User control and freedom 
 Unfortunately, the app is currently not available for Android users, which detracts from the app's accessibility because it excludes non-iPhone users.
-**Severity rating: 2**
 
 ![usercontrolandfreedom](https://drive.google.com/uc?id=1Gzbru-dvIvQttUqnddMTfylDD-awAJPq)
+
+Aside from this, Co—Star is much like any other social media application. You can customize your username, name, and profile photo. If need be, the user can even change their birth date, time, or place. The user can also choose whether or not their birth chart is public, as well as what kinds of notifications the user would like to receive on their device.
+
+**Severity rating: 2**
 
 ### #4: Consistency and standards
 Co
