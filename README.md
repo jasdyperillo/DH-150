@@ -107,8 +107,9 @@ Co
 **Severity rating: **
 
 ### #5: Error prevention
+When first signing up and making an account on the app, the user will encounter these warnings if they, for example, fail to meet the requirements set by Co—Star for a username, password, etc.
 
-**Severity rating: **
+**Severity rating: 1**
 
 ![errorprevention1](https://drive.google.com/uc?id=1EELmAULf78o6HTcEq0d75M8d5GqMYclE)
 ![errorprevention2](https://drive.google.com/uc?id=1HB_YlG1fwxnupYDcsvoP_oW94jPdUUxY)
