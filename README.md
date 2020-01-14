@@ -134,8 +134,9 @@ Aside from this, Co—Star is much like any other social media application. You 
 **Severity rating: 2**
 
 ### #4: Consistency and standards
-Co
-**Severity rating: **
+When the user opens the app, the 'home/landing' page is a bit jumbled. The user cannot directly access their settings or saved horoscopes. In order to access these two features, the user must click through the app. In my opinion, the 'home/landing' page of an app should give the user direct access to all main and important features, like settings. 
+
+**Severity rating: 2**
 
 ### #5: Error prevention
 When first signing up and making an account on the app, the user will encounter these warnings if they, for example, fail to meet the requirements set by Co—Star for a username, password, etc.
@@ -146,11 +147,12 @@ When first signing up and making an account on the app, the user will encounter 
 ![errorprevention2](https://drive.google.com/uc?id=1HB_YlG1fwxnupYDcsvoP_oW94jPdUUxY)
 
 ### #6: Recognition rather than recall
+The app allows the user to bookmark and save any horoscopes or astrology updates so that the user can easily peruse and access them later on; however, the app lacks a thorough and holistic history of the user's updates in their astrology. In other words, unless the user has bookmarked a specific astrology update, after it has been more than 2 days, they will no longer be able to access or recall it.
 
-**Severity rating: **
+**Severity rating: 2**
 
 ### #7: Flexibility and efficiency of use
-The app allows the user to bookmark and save any horoscopes or astrology updates so that the user can easily peruse and access them later on. When a user would like to send a message through Co—Star to a friend, Co—Star provides a list of "suggested" friends for the user's ease.
+When a user would like to send a message through Co—Star to a friend, Co—Star provides a list of "suggested" friends for the user's ease.
 
 ![flexibilityandefficiencyofuse1](https://drive.google.com/uc?id=16rwWsyPT-HhohZpGdp0feQVSvQcqiMRY)
 
@@ -160,25 +162,23 @@ Although the app does alphabetize the user's friends list, Co—Star lacks a sea
 
 **Severity rating: 2**
 
-
 ### #8: Aesthetic and minimalist design 
-Co—Star follows a relatively sleek design that is primarily grayscale, with the exception of the use of emojis which are used as indicators for different categories of a user's daily horoscope. Even the graphics follow a grayscale color palette. Certain aspects of the app may be word-heavy for some users 
+Co—Star follows a relatively sleek design that is primarily grayscale, with the exception of the use of emojis which are used as indicators for different categories of a user's daily horoscope. Even the graphics follow a grayscale color palette. Certain aspects of the app may be word-heavy for some users, but I don't think the app overdoes it. 
 
 **Severity rating: 1**
 
 ### #9: Help users recognize, diagnose, and recover from errors
 There is an error message for users who have poor network connectivity. If a 'page' is loading, there is a buffering icon.
 
-**Severity rating: 1**
-
 ![recognizediagnoserecoverfromerrors](https://drive.google.com/uc?id=1-FU6CbVyQO630PRYMcost4KQTFNyg7jy)
+
+**Severity rating: 1**
 
 ### #10: Help and documentation
 Co—Star does have a feedback form as well as a FAQ page. The feedback form also lists an e-mail that users can use to contact the app developers if they have any questions or concerns. At the bottom of the user's daily horoscope update, the app asks the user "Was this useful?" to which the user can respond by clicking one of three options: a smiley face, a frown face, or an 'indifferent' face.
-
-**Severity rating: 1**
 
 ![helpanddocumentation2](https://drive.google.com/uc?id=1nyRcg4Vy4FBCqD0_amRbvXpVBXiCk3ff)
 ![helpanddocumentation3](https://drive.google.com/uc?export=view&id=1eNEwlsQ39hb3v2xB-TaDPX3ck-We9lPU)
 ![helpanddocumentation4](https://drive.google.com/uc?id=1R2lH21VCZrgm3XzqRwjiSgGzuO8TwpM0) 
 
+**Severity rating: 1**
