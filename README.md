@@ -86,7 +86,7 @@ The Co—Star app provides "hyper-personalized astrology" based on a person's bi
 Link to website/link to download: https://www.costarastrology.com/ 
 
 ## Initial Overall Evaluation
-sajdvhasjkd
+Right off the bat, I really like the aesthetic of the Co—Star app. The app is quite word-heavy, but understandably so as that is the nature of astrology and horoscopes. I think the app tries its best to be as intuitive as possible, but if a user has absolutely zero knowledge on astrology, it's almost natural to feel overwhelmed by all the information Co—Star provides; nevertheless, I do like the way the app breaks down your birth chart, and it's definitely a lot more user-friendly than other similar apps 'on the market.' 
 
 ### #1: Visibility of system status
 Right when you open the app—given that you're already logged in, Co—Star displays your horoscope and astrological update for the day. If the user wishes to look back and review 
