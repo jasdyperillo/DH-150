@@ -28,7 +28,8 @@ The usability materials: [link](https://forms.gle/mTgdDQFLzoSUhDYn7)
 
 Video session/documentation of participant: 
 [link](https://drive.google.com/uc?id=1_mpuG16G6bMX4zHBM04jWuiE07jLloum)
-[link](https://drive.google.com/uc?id=1ByVGAgQ9OrHjwkukKOEehHJR8hD3r0PU)
+Part 1 [link](https://drive.google.com/uc?id=1ByVGAgQ9OrHjwkukKOEehHJR8hD3r0PU)
+Part 2 [link](https://drive.google.com/uc?=id1jgD5wgY21oO6pX415bkqxSAPh6WAt_q5)
 
 
 ## Reflection
