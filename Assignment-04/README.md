@@ -16,3 +16,24 @@ Like institutional religions, astrology has the duality of both exercising the b
 I chose to interview a user I know from personal experience.
 
 ## Step 03: Observation/Research Method(s)
+
+
+
+
+## Step 04: Interview Guide/Script
+
+[Link to Interview Guide/Script](https://docs.google.com/document/d/1eGdSHOd-wGSC7aOmY2_PlfWdKugopquTIozLaRkFyNk/edit?usp=sharing)
+
+## Step 05: Conducting the Research
+
+[Link to Audio Recording]( )
+[Link to Video Recording]( )
+
+
+## Step 06: Documentation
+
+[Link to Transcript of Interview]( )
+
+
+### Reflection
+
