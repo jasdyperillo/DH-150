@@ -5,7 +5,7 @@ UID: 004971193
 ## Step 01: Specify the main design challenge
 The Co—Star app's purpose is to deepen users' knowledge of their own astrological identity, as well as establish and strengthen their relationships with people in their lives who share their interest in astrology. In regards to Maslow's hierarchy of needs, this purpose or activity speaks to a human's need to feel like they belong and the need to maintain and nurture one's own self-esteem. These are very broad and expansive needs, so it makes sense that there are many different approaches to this. For one, to some extent, one must believe in the ideologies behind astrology in order to be willing to partake and use an app like Co—Star. By that logic, a user on the Co—Star app can only begin to build and/or join a community on the app if they know people who share that belief. Through digital technology, a general category of limitations that this app and its users may face is in regards to accessibility. Questions of how we/Co—Star can make astrology more accessible to those with disabilities arise, but also in a less technical sense, how can we/Co—Star make astrology more accessible to people who aren't inclined to invest their time in astrology.
 
-How might we improve the design of the Co—Star app so it is engaging and piques the interest of those who are initially closed-off to astrology?
+_How might we improve the design of the Co—Star app so it is engaging and piques the interest of those who are initially closed-off to astrology?_
 
 
 ## Step 02: Target users
