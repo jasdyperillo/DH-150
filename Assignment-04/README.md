@@ -27,7 +27,6 @@ I chose to interview a user I know from personal experience.
 ## Step 05: Conducting the Research
 
 [Link to Audio Recording]( )
-[Link to Video Recording]( )
 
 
 ## Step 06: Documentation
