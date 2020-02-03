@@ -26,7 +26,7 @@ I chose to interview a user I know from personal experience.
 
 ## Step 05: Conducting the Research
 
-[Link to Audio Recording]( )
+[Link to Audio Recording](https://otter.ai/s/ecu_dW93SM6nhMtY6O2C-g)
 
 
 ## Step 06: Documentation
