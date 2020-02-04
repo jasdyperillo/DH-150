@@ -17,9 +17,8 @@ Like institutional religions, astrology has the duality of both exercising the b
 I chose to interview a user I know from personal experience.
 
 ## Step 03: Observation/Research Method(s)
-
-
-
+I chose to conduct a participatory observation/interview. As previously mentioned, astrology doesn't really coincide with any physical spaces or locations where people gather on a regularly anticipated basis. Thankfully, one of my roommates uses the Co—Star app. He fits the demographic I was seeking to learn more about: a Gen-Z college student who grew up with exposure to an institutionalized religion.
+I used the website Otter to record the audio of the interview and transcribe—and later edit—the dialogue and verbal exchange between the participant and I.
 
 ## Step 04: Interview Guide/Script
 
@@ -32,8 +31,10 @@ I chose to interview a user I know from personal experience.
 
 ## Step 06: Documentation
 
-[Link to Transcript of Interview]( )
+[Link to Transcript of Interview](https://otter.ai/s/ecu_dW93SM6nhMtY6O2C-g)
 
 
 ### Reflection
-
+While it's important to create a script that will serve as a guide for the interview, I really began to understand the importance of making the interview as conversational as possible. I feel that by doing so, a participant or interviewee will feel more at ease and comfortable with speaking their mind without a concern or feeling conscious about what they will say. Although I would've liked to ask more about the participant's religious background—which wouldn't necessarily be unwarranted considering the app and the fact that I personally know the participant, I felt that this may breach a personal boundary if this were an interview conducted with a real stranger. 
+I really loved the website Otter, which was suggested by our professor. The automatic transcription had a pretty high rate of accuracy in transcribing the audio recording, which significantly cut down the time and effort that this assignment demanded from me. 
+I didn't anticipate this, but perhaps the most interesting and helpful insight that came from this participatory observation/interview came at the end when I asked the interviewee what tool they would devise or create if they could magically do so. I guess I felt like in this age of advanced technology and digital communication, I find it hard to think of things that haven't been thought of or that I've heard of before. But my participant's answer was truly one-of-a-kind and really encapsulated what the target user ultimately wants. Beyond the participant's actual answers, I learned that it's really powerful to understand the language and word choice a person uses to describe any given thing. I think it really lends itself to the researcher to look into the nuanced perspective of what it's like to be on the other end of the product—an app in this case—which can be hard to lose sight of because of how familiar one becomes with the product/app through each phase of research, user testing, etc. 
