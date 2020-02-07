@@ -46,11 +46,17 @@ saldvjkhasd
 ### Persona 3
 ![photo](https://www.onetravel.com/going-places/wp-content/uploads/2016/07/shutterstock_166522481-810x540.jpg)
 **Relevant Demographic Information**
+
 Lauren is a solo traveler. She is 24 years old. After a year and a half at NYU Steinhardt, Lauren dropped out to pursue her career in landscape photography. She now travels to capture scenic and picturesque shots of the world, with her entire life fitting inside her backpack and equipment bag. 
+
 **Motivations and Needs**
+
 Because she constantly travels, Lauren often feels disconnected from the day-to-day lives of her loved ones back at home on the East Coast. Since she spends so much time just trying to get from one place to another, she tries her best to be intentional and tries to dedicate time to checking in with her dad and younger brother. 
+
 **Characteristics that Represent Barriers & Potential Facilitators**
+
 There isn't much time for leisure, or for apps that aren't functional or fit in with her hectic lifestyle. 
+
 **Empathy Map**
 saldvjkhasd
 
