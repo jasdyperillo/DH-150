@@ -20,9 +20,7 @@ After college, her goal is to work for a talent agency of PR firm in the enterta
 She doesn't know how compatible her and her current boyfriend, who she feels isn't as committed to their relationship.
 
 **Empathy Map**
-
-saldvjkhasd
-
+![empathymap](https://drive.google.com/uc?id=1Rd9-XB90ro21HI6RTHmRHImFaAILaSmm)
 
 
 ### Persona 2
