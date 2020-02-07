@@ -53,17 +53,35 @@ Because she constantly travels, Lauren often feels disconnected from the day-to-
 
 **Characteristics that Represent Barriers & Potential Facilitators**
 
-There isn't much time for leisure, or for apps that aren't functional or fit in with her hectic lifestyle. 
+There isn't much time for leisure, or for apps that aren't functional or fit in with her hectic lifestyle. A device like a smart watch, which integrates and merges many useful apps into one convenient interface, would be quite useful for her.
 
 **Empathy Map**
-saldvjkhasd
+![empathymap]()
 
 
 
 ### Scenario 1
+
 savdavsd
 
 **Context**
 dsadasd
- 
+
+
+**User's Journey Map**
+![journeymap]()
+
+
+
+### Scenario 2
+
+asdjvhaksljdh
+
+**Context**
+
+
+**User's Journey Map**
+![journeymap]()
+
+
 
