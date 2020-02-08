@@ -56,7 +56,7 @@ Because she constantly travels, Lauren often feels disconnected from the day-to-
 There isn't much time for leisure, or for apps that aren't functional or fit in with her hectic lifestyle. A device like a smart watch, which integrates and merges many useful apps into one convenient interface, would be quite useful for her.
 
 **Empathy Map**
-![empathymap]()
+![empathymap](https://drive.google.com/uc?id=1cYeTu0ol5xk2VkWDHNscJxYiOFUZBPLl)
 
 
 
