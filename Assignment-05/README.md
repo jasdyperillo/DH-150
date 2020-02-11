@@ -69,22 +69,31 @@ There isn't much time for leisure, or for apps that aren't functional or fit in 
 
 Persona: Ashley
 
-Despite her bubbly personality, Ashley sometimes deals with social anxiety in certain social settings and situations. Using the Co—Star app, she quickly navigates from the home/landing page to use the 'Add Friends' feature. She uses this feature as a way of introducing herself and participating in current conversations at the social with these new people.
+Despite her bubbly personality, Ashley sometimes deals with social anxiety in certain social settings and situations. Using the Co—Star app, she quickly navigates from the home/landing page to use the 'Add Friends' feature. She uses this feature as a way of introducing herself and participating in current conversations at the social with these new people. She enters her new friends' usernames one by add and submits a pending friend request. Once approved, each person will appear in her Friends list that is located on the app's home/landing page.
 
 **User's Journey Map**
 ![journeymap](https://drive.google.com/uc?id=13setg-zBc2WwHCDa8142Cr1R0QrNuy-X)
 
 
-
 ### Scenario 2
 
-asdjvhaksljdh
+**Context/Use Case**
 
-**Context**
+Persona: 
 
+CONTEXTajsdvlaksjd
 
 **User's Journey Map**
 ![journeymap]()
 
 
-  
+## Scenario 3
+
+**Context/Use Case**
+
+Persona: 
+
+CONTEXTajsdvlaksjd
+
+**User's Journey Map**
+![journeymap]()
