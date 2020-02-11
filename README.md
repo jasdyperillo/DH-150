@@ -1,7 +1,6 @@
 # DH-150-Assignment-01
 Jasdy Perillo 
 
-UID: 004971193
 
 ## 1. Heuristic Evaluation of UCLASafeRide App by Jasdy Perillo
 I chose the UCLASafeRide app because I am part of the community who uses the app—the UCLA community. I think it's important that services like UCLA Safe Ride exist because it contributes to the safety and accessibility of life at UCLA for students, faculty, staff, and more. To me, apps like UCLA Safe Ride are crucial because they contribute to the UCLA experience. For example, I can catch a van ride back to my apartment after a late night meeting on campus with my roommates or friends. I can use it to go visit Ralph's where I sometimes do my grocery shopping. This app shapes how I, and many fellow students, experience UCLA, because without it, I might not be able to attend on-campus events at night, given how far I live. The service that UCLA Safe Ride provides is integral to the UCLA community. 
