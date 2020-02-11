@@ -65,14 +65,14 @@ There isn't much time for leisure, or for apps that aren't functional or fit in 
 
 ### Scenario 1
 
-savdavsd
+**Context/Use Case**
 
-**Context**
-dsadasd
+Persona: Ashley
 
+Despite her bubbly personality, Ashley sometimes deals with social anxiety in certain social settings and situations. Using the Co—Star app, she quickly navigates from the home/landing page to use the 'Add Friends' feature. She uses this feature as a way of introducing herself and participating in current conversations at the social with these new people.
 
 **User's Journey Map**
-![journeymap]()
+![journeymap](https://drive.google.com/uc?id=13setg-zBc2WwHCDa8142Cr1R0QrNuy-X)
 
 
 
