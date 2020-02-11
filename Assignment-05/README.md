@@ -79,12 +79,12 @@ Despite her bubbly personality, Ashley sometimes deals with social anxiety in ce
 
 **Context/Use Case**
 
-Persona: 
+Persona: Lauren
 
-CONTEXTajsdvlaksjd
+Because Lauren's lifestyle means living life on the go and never staying in one place, there's never seems to be enough time or resources (aka money) to sit down and learn more about astrology through online research. Lauren's scenario demonstrates using the Co—Star's primary feature: horoscopes. After creating an account and entering the appropriate information, Lauren is instantly updated on the daily on what astrology and the planets' alignments have in store for her for that particular day. It is easily accessible, as it appears on the home page and a very brief (typically one-sentence) summary of her daily horoscope appears as a push notification once a day.
 
 **User's Journey Map**
-![journeymap]()
+![journeymap](https://drive.google.com/uc?id=1BZEP-gFkGxfsVtyQnMJmHNQCm24l8k3O)
 
 
 ## Scenario 3
