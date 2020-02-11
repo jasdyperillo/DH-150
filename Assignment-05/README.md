@@ -7,6 +7,7 @@ UID: 004971193
 
 ### Persona 1
 ![photo](https://ak7.picdn.net/shutterstock/videos/6167507/thumb/1.jpg)
+
 **Relevant Demographic Information**
 
 Ashley is a 20 year-old college student. Originally from Virginia, she attends San Diego State University, where she majors in Marketing and is also part of a sorority. Her interests include watching reality television, going to Greek life parties, and trying out new coffee shops in San Diego. She has a very bubbly personality and is an only child. 
@@ -25,6 +26,7 @@ She doesn't know how compatible her and her current boyfriend, who she feels isn
 
 ### Persona 2
 ![photo](https://farmweek.com/wp-content/uploads/2019/08/2.44555389.jpg)
+
 **Relevant Demographic Information**
 
 Grayson is a 28 year-old UX designer for a tech company in Silicon Valley. As a millennial, he loves spending his time going to speakeasies and bar-hopping, and has a soft spot for anything Disney-related. Despite growing up in a Christian household, Grayson isn't particularly attached to his religious faith, nor does he formally practice. A lot of his friends are people he went to college with, many of whom have begun to settle down.
@@ -43,6 +45,7 @@ Grayson feels a bit hesitant to bring up astrological and talk of horoscopes and
 
 ### Persona 3
 ![photo](https://www.onetravel.com/going-places/wp-content/uploads/2016/07/shutterstock_166522481-810x540.jpg)
+
 **Relevant Demographic Information**
  
 Lauren is a solo traveler. She is 24 years old. After a year and a half at NYU Steinhardt, Lauren dropped out to pursue her career in landscape photography. She now travels to capture scenic and picturesque shots of the world, with her entire life fitting inside her backpack and equipment bag. 
