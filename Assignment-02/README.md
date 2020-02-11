@@ -1,6 +1,6 @@
 # DH 150 Assignment 02
 Jasdy Perillo
-UID: 004971193
+
 
 ## Introduction
 The Co—Star app provides users with insight into their astrological identity through daily in-depth horoscopes. It also serves as a platform for users to interact with friends by offering compatibility evaluations based on their birth/natal charts.  
