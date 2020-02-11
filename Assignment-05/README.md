@@ -1,7 +1,6 @@
 # DH 150 Assignment 05
 Jasdy Perillo
 
-UID: 004971193
 
 ## Personas
 
