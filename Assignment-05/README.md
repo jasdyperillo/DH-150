@@ -91,9 +91,9 @@ Because Lauren's lifestyle means living life on the go and never staying in one 
 
 **Context/Use Case**
 
-Persona: 
+Persona: Grayson
 
-CONTEXTajsdvlaksjd
+Grayson uses his passion and interest in astrology as a guide for how to navigate his dating/love life. In this scenario, Grayson has met someone he thinks he could see himself with in the long term, but he is interested in seeing a comparison between their birth charts. Using the app, Grayson looks at his potential partner's birth chart and reads in-depth analysis of how the two of them get along according to astrology to gain a better understanding of what kind of partner this person will be in a committed relationship.
 
 **User's Journey Map**
-![journeymap]()
+![journeymap](https://drive.google.com/uc?id=1xC_423_27-xTAqVRz_rTRQEf9pgp9RqZ)
