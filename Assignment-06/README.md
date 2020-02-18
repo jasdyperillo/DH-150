@@ -1,8 +1,6 @@
-# DH 150 Assignment 06
+# DH 150 Assignment 06: Low Fidelity Protoype
 
 Jasdy Perillo
-
-# Low Fidelity Protoype
 
 ## Brief Description
 
