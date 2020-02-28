@@ -9,7 +9,19 @@ https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/
 alksjhdvlkasjdh
 
 ## Tasks Supported by My Prototype
-• sdkjvashd
+• Login
+• Forget password —> Reset new password
+• Read entire birth chart
+• Send a friend request
+• View a friend's birth chart
+• View/read about compatibility with a friend
+• Make birth chart public
+• Turn on notifications for:
+  • Daily horoscopes
+  • Friend request
+  • Friend request approved
+• Log out
+• View past/current/future horoscope (in calendar view)
 
 ## Representative Screen Designs
 asdjkvhasdl
