@@ -43,7 +43,7 @@ I chose to add four buttons to the bottom of the screen because it makes every f
 
 ![image 2](https://drive.google.com/uc?id=1Ns8lmpS3R5AaNoDGiyprpE9iQqvvTwKI)
 
-Originally, the current app has a scroll down list of a user's friends on the home page, but it was separate from the page where a user could enter a friend's username and send a request to add their friend on Co—Star. Because of how related these two features are, I decided to put them 'together' on one screen so that anything and everything having to do with friends on the app can be all in one place.
+Originally, the current app has a scroll down list of a user's friends on the home page, but it was separate from the page where a user could enter a username and send a request to add their friend on Co—Star. I decided to put these two features on the same screen so that anything and everything having to do with friends on the app could be accessed and found all in one location.
 
 ## My Decision Making
 alsjkdvhasd
