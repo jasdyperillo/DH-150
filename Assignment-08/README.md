@@ -59,8 +59,7 @@ In my prototype, this calendar view is now directly accessible from the app's ho
 
 Again, a user's account settings is not currently easily accessible from the app's home page. This makes it a bit difficult for users to do many things, such as edit their notification settings and more. The last button (on the most right) of the four buttons I've added at the bottom of every screen leads directly to a user's settings.
 
-## My Decision Making
-alsjkdvhasd
+Overall, I also decided to modify the current app's color scheme, which is mainly greyscale, to a two-tone palette of a light lavendar and a dark violet. I chose these colors because, like our instructor has said, black and white is quite harsh on users' eyes, especially those who have visual impairments or light sensitivity. I decided to go with a purple-toned palette because it is reminiscent of space to me. 
 
 ## Wireflow
 haslkjvdhas
