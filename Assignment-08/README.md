@@ -39,11 +39,25 @@ This quarter, I chose to look at an astrology app called Co—Star. Through user
 ## Representative Screen Designs
 ![image 1](https://drive.google.com/uc?id=1yhxB20cHJykZGSCabhpUvVGqCFa_EF1i)
 
-I chose to add four buttons to the bottom of the screen because it makes every feature that the app offers more accessible by requiring the user to click fewer times and go through fewer 'pages' to access anything (e.g. account settings). Also, because it is at the bottom, it is closer to a user's thumb/fingers. This page is essentially the home page: it's the first screen a user will see after logging into their Co—Star account. One of the most widely used features of the app is accessing one's birth chart. Unlike the current app's design, I put the user's entire birth chart on the home screen. 
+I chose to add four buttons to the bottom of the screen because it makes every feature that the app offers more accessible by requiring the user to click fewer times and go through fewer 'pages' to access anything (e.g. account settings). Also, because it is at the bottom, it is closer to a user's thumb/fingers. 
+
+This page is essentially a re-design of the home page: it's the first screen a user will see after logging into their Co—Star account. One of the most widely used features of the app is accessing one's birth chart. Unlike the current app's design, I put the user's entire birth chart on the home screen. 
+
+Users can navigate back to this home page at any time and at any other screen in the app by clicking the second button at the bottom which features a star icon.
 
 ![image 2](https://drive.google.com/uc?id=1Ns8lmpS3R5AaNoDGiyprpE9iQqvvTwKI)
 
-Originally, the current app has a scroll down list of a user's friends on the home page, but it was separate from the page where a user could enter a username and send a request to add their friend on Co—Star. I decided to put these two features on the same screen so that anything and everything having to do with friends on the app could be accessed and found all in one location.
+Originally, the current app has a scroll down list of a user's friends on the home page, but it was separate from the page where a user could enter a username and send a request to add their friend on Co—Star. I decided to put these two features on the same screen so that anything and everything having to do with friends on the app could be accessed and found all in one location, which is accessible by clicking the first button (on the most left) of the four buttons I've added at the bottom. 
+
+![image 3](https://drive.google.com/uc?id=1BLDknwuQ-tuoMjSADpBY44tCNmZW_OdR)
+
+A huge improvement I wanted to make was adding a calendar view of a user's daily horoscopes. Currently, the app only lets the user view horoscopes of up to two days prior and two days in advance—not even a whole 7-day week. Users I interviewed often mentioned that it would be nice to be able to access any and all past horoscopes. 
+
+In my prototype, this calendar view is now directly accessible from the app's home page by clicking the third button which features a calendar icon.
+
+![image 4](https://drive.google.com/uc?id=1Z7nCAQ0LyQvRPU_EpW8b0MU1vEOHSBxR)
+
+Again, a user's account settings is not currently easily accessible from the app's home page. This makes it a bit difficult for users to do many things, such as edit their notification settings and more. The last button (on the most right) of the four buttons I've added at the bottom of every screen leads directly to a user's settings.
 
 ## My Decision Making
 alsjkdvhasd
