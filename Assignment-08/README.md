@@ -1,9 +1,6 @@
 # DH 150 
 Jasdy Perillo
 
-## URL to High-Fidelity Prototype
-https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/
-
 ## Brief Project Description
 This quarter, I chose to look at an astrology app called Co—Star. Through user research, evaluations, and feedback, I have created a high fidelity prototype which visualizes my re-design of the app. Incorporating what I've learned and discovered in earlier weeks, I implemented changes to the app's current design to hopefully improve user experience and increase user engagement. 
 
@@ -62,14 +59,15 @@ Again, a user's account settings is not currently easily accessible from the app
 Overall, I also decided to modify the current app's color scheme, which is mainly greyscale, to a two-tone palette of a light lavendar and a dark violet. I chose these colors because, like our instructor has said, black and white is quite harsh on users' eyes, especially those who have visual impairments or light sensitivity. I decided to go with a purple-toned palette because it is reminiscent of space to me. These colors pass the contrast checker test.
 
 ## Wireflow
-haslkjvdhas
+![wireflow](https://drive.google.com/uc?id=1RJTbz-U0K-FasO57R9GVmtrOohu06U2T)
 
-A brief description of your project, the purpose and process of this prototyping phase (3-5 sentences)
-A list of tasks that the interactive prototype of your system supported.
-One image with the representative examples of screen designs (3-5 screens) 
-Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
-One image with the wireflow with graphic design
-Link to the interactive prototype or embed window that shows the prototype.
-If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
+Here is a closer look of a sequence wherein a user can enter a username, send a friend request, and return to a prior screen or the home page:
+![image](https://drive.google.com/uc?id=1V6AWamr6bVKj0XmScRLqJlSoR2luJLKr)
 
+## URL to High-Fidelity Prototype
+https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/
 
+**Some icons may be missing; The original app uses iOS emojis and I included those in my interactive prototype. They appear in the Adobe XD file, but not in the link I've shared.**
+
+## Prior Versions
+Unfortunately, I do not have images of prior versions because I made edits and changes directly on the Adobe XD file; however, the big feedback I had was in terms of color. Sookie emphasized that the color palette should pass *all* contrast checker tests, so a change I made was to increase the lightness of the background color so that I can maximize the color accessibility of my interactive prototype. 
