@@ -30,11 +30,15 @@ Summary and link to your assignment folder
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
-## Low-fidelity prototype (wireflow, assignment07)
+## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+[Learn more about my low-fidelity prototype.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-06/README.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+
+[Learn more about my high-fidelity prototype.](https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/)
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
