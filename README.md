@@ -13,6 +13,8 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 ![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)
 
+[Read more about my heuristic evaluation and usability test results of the Co—Star app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-01/README2old.md)
+
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
