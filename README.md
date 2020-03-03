@@ -36,9 +36,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 [Learn more about my low-fidelity prototype.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-06/README.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Summary statement and link to or an embedded prototype [Learn more about my high-fidelity prototype.](https://github.com/jasdyperillo/DH-150/tree/master/Assignment-08)
 
-[Learn more about my high-fidelity prototype.](https://github.com/jasdyperillo/DH-150/tree/master/Assignment-08)
 [View my interactive prototype.](https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/)
 
 ![Co—Star Hi-Fi Prototype](https://camo.githubusercontent.com/21b68474531bdc63d4bf558277fd900c9dd0e90a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3179687842323063484a796b5a4753436162687055765647714346615f45463169)
