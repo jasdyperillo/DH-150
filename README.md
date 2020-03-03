@@ -21,7 +21,7 @@ Co—Star App | UCLA SafeRide App
 ![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://drive.google.com/uc?id=1VkNl9y5_Y07X-yzWwfkaPe04EwyaRhyn)
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+The Co—Star app's purpose is to deepen users' knowledge of their own astrological identity, as well as establish and strengthen their relationships with people in their lives who share their interest in astrology. In regards to Maslow's hierarchy of needs, this purpose or activity speaks to a human's need to feel like they belong and the need to maintain and nurture one's own self-esteem. These are very broad and expansive needs, so it makes sense that there are many different approaches to this. For one, to some extent, one must believe in the ideologies behind astrology in order to be willing to partake and use an app like Co—Star. By that logic, a user on the Co—Star app can only begin to build and/or join a community on the app if they know people who share that belief. [Read more about how I conducted a participatory observation/interview.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-04/README.md) 
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
