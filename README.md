@@ -11,8 +11,8 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-website-01 | website-02
------------|-----------
+Co—Star App | UCLA SafeRide App
+------------|------------------
 ![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://drive.google.com/uc?id=1VkNl9y5_Y07X-yzWwfkaPe04EwyaRhyn)
 
 [Read more about my heuristic evaluation and usability test results of the Co—Star app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-01/README2old.md)
