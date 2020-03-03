@@ -38,7 +38,10 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
-[Learn more about my high-fidelity prototype.](https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/)
+[Learn more about my high-fidelity prototype.](https://github.com/jasdyperillo/DH-150/tree/master/Assignment-08)
+[View my interactive prototype.](https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/)
+
+![Co—Star Hi-Fi Prototype](https://camo.githubusercontent.com/21b68474531bdc63d4bf558277fd900c9dd0e90a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3179687842323063484a796b5a4753436162687055765647714346615f45463169)
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
