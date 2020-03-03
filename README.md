@@ -26,6 +26,8 @@ The Co—Star app's purpose is to deepen users' knowledge of their own astrologi
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 
+[Read more about potential scenarios that the Co—Star app facilitates.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-05/README.md)
+
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
 ## Low-fidelity prototype (wireflow, assignment07)
