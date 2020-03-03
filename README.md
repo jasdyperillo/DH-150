@@ -9,13 +9,20 @@ This project involves the mobile app user's user experience design for a communi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+I chose the UCLASafeRide app because I am part of the community who uses the app—the UCLA community. I think it's important that services like UCLA Safe Ride exist because it contributes to the safety and accessibility of life at UCLA for students, faculty, staff, and more. To me, apps like UCLA Safe Ride are crucial because they contribute to the UCLA experience. For example, I can catch a van ride back to my apartment after a late night meeting on campus with my roommates or friends. I can use it to go visit Ralph's where I sometimes do my grocery shopping. This app shapes how I, and many fellow students, experience UCLA, because without it, I might not be able to attend on-campus events at night, given how far I live. The service that UCLA Safe Ride provides is integral to the UCLA community.
+
+I chose the Co—Star app because it's a pioneer in its 'field.' Co—Star was the one of the first apps developed that did more than provide users with information about astrology and their personal birth charts. The app has a feature that lets a person add and message friends who also have an account, which allows users to compare their birth charts and daily horoscopes with those of their friends. Co—Star even provides a compatibility 'diagnostic' that analyzes a user's astrological compatibility with a friend. The Co—Star app makes astrology more accessible and its inherent design and mission is to allow users to foster and strengthen the sense of community that they share with those in their lives. [Read more about my heuristic evaluation of the Co—Star app and the UCLA SafeRide app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-01/README2old.md)
+
+
+The Co—Star app provides users with insight into their astrological identity through daily in-depth horoscopes. It also serves as a platform for users to interact with friends by offering compatibility evaluations based on their birth/natal charts.
+
+A usability test is designed to identify a website or app's functionality through the user's ability to easily navigate and operate the website/app. It can be conducted in several ways, but generally, participants in a usability test are instructed to complete a number of tasks to the best of their ability. The participants' responses are then documented.
+
+I conducted a usability test using a screen recording of the user's iPhone while they completed the tasks on the app. I also documented the participant by using ActivePresenter, which records a laptop's screen with the audio and visuals of the person using the laptop. [Read more about my usability test and results of the Co—Star app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-02/README.md)
 
 Co—Star App | UCLA SafeRide App
 ------------|------------------
 ![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://drive.google.com/uc?id=1VkNl9y5_Y07X-yzWwfkaPe04EwyaRhyn)
-
-[Read more about my heuristic evaluation and usability test results of the Co—Star app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-01/README2old.md)
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
