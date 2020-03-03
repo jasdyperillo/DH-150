@@ -13,7 +13,7 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 website-01 | website-02
 -----------|-----------
-![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://camo.githubusercontent.com/a55435854ce154a2376c67cfa72820f0747a9a77/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d31377949687a585a46387744696f495a307661413235314d33737253636b4b3267)
+![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://drive.google.com/uc?id=1VkNl9y5_Y07X-yzWwfkaPe04EwyaRhyn)
 
 [Read more about my heuristic evaluation and usability test results of the Co—Star app.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-01/README2old.md)
 
