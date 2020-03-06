@@ -47,6 +47,7 @@ These initial sketches show the process of logging into the Co—Star app and ho
 [View my graphic design element variations.](https://jasdyperillo.github.io/DH-150/Assignment-07/colors-jasdyPerillo.html)
 
 ## Low-fidelity prototype (wireflow, assignment06)
+![Wireflow](https://camo.githubusercontent.com/19c1d55a4ba3c7923fc60da405133b4c40399326/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3150765344684c755f524d626b6d6d3779553867754e49364a6e4645636172376d)
 The objective of developing a low-fidelity prototype and testing the wireflow is to document the flow of three key features of the Co—Star app. The prototype displays what pages a user will encounter as they perform each of these three tasks, and the wireflow documents how a user would navigate the app. Low-fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave.
 
 [Learn more about testing the wireflow of my low-fidelity prototype.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-06/README.md)
