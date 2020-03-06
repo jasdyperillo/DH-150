@@ -25,9 +25,17 @@ The Co—Star app's purpose is to deepen users' knowledge of their own astrologi
 ## UX storytelling [persona + scenario, assignment05]
 I identified personas of three likely users of the Co—Star app: Ashley, Grayson, and Lauren. These three personas represent the various circumstances and motivations a person may have for using the Co—Star app. I proceeded to develop three possible scenarios wherein the app would facilitate a solution to a problem that Ashley, Grayson, or Lauren might face in the real world. 
 
-Persona 1: _Ashley_ | Persona 2: _Grayson_ | Persona 3: _Lauren_
---------------------|----------------------|--------------------
-![Ashley](https://camo.githubusercontent.com/6566cf2d4b2ba2e60607ec5e98baa10f09c70904/68747470733a2f2f616b372e706963646e2e6e65742f7368757474657273746f636b2f766964656f732f363136373530372f7468756d622f312e6a7067)|![Grayson](https://camo.githubusercontent.com/79639091e0befb561bd90dc67b125dec13d29c30/68747470733a2f2f6661726d7765656b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f322e34343535353338392e6a7067)|![Lauren](https://camo.githubusercontent.com/89ef4b67910346c5f5a242cea683f058d38dcbb3/68747470733a2f2f7777772e6f6e6574726176656c2e636f6d2f676f696e672d706c616365732f77702d636f6e74656e742f75706c6f6164732f323031362f30372f7368757474657273746f636b5f3136363532323438312d383130783534302e6a7067)
+Persona 1: _Ashley_ | Empathy Map
+--------------------|--------------------
+![Ashley](https://camo.githubusercontent.com/6566cf2d4b2ba2e60607ec5e98baa10f09c70904/68747470733a2f2f616b372e706963646e2e6e65742f7368757474657273746f636b2f766964656f732f363136373530372f7468756d622f312e6a7067)|![EmpathyMap](https://camo.githubusercontent.com/d3174e3d71ef0e326fdfe1043748c9abcb9918b7/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d315264392d58423930726f32314849365254486d5248496d466141494c61536d6d)
+
+Persona 2: _Grayson_|Empathy Map
+--------------------|--------------------
+![Grayson](https://camo.githubusercontent.com/79639091e0befb561bd90dc67b125dec13d29c30/68747470733a2f2f6661726d7765656b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f322e34343535353338392e6a7067)|![EmpathyMap](https://camo.githubusercontent.com/aadf793928743f78e1d7300fbbf6d991daccc980/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3144494c483345614f6e466d6b465763724f5f4b7253633644724a652d73317443)
+
+Persona 3: _Lauren_|Empathy Map
+-------------------|-------------------
+![Lauren](https://camo.githubusercontent.com/89ef4b67910346c5f5a242cea683f058d38dcbb3/68747470733a2f2f7777772e6f6e6574726176656c2e636f6d2f676f696e672d706c616365732f77702d636f6e74656e742f75706c6f6164732f323031362f30372f7368757474657273746f636b5f3136363532323438312d383130783534302e6a7067)|![Empathy Map](https://camo.githubusercontent.com/120002d99824f17efe3f201fd4f58f433ee5cdd6/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d316359655475306f6c35786b32566b5744484e73634a7859694f46555a42504c6c)
 
 [Read more about potential scenarios that the Co—Star app aims to facilitate.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-05/README.md)
 
