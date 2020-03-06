@@ -49,14 +49,13 @@ These initial sketches show the process of logging into the Co—Star app and ho
 
 ## Low-fidelity prototype (wireflow, assignment06)
 ![Wireflow](https://camo.githubusercontent.com/19c1d55a4ba3c7923fc60da405133b4c40399326/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3150765344684c755f524d626b6d6d3779553867754e49364a6e4645636172376d)
-The objective of developing a low-fidelity prototype and testing the wireflow is to document the flow of three key features of the Co—Star app. The prototype displays what pages a user will encounter as they perform each of these three tasks, and the wireflow documents how a user would navigate the app. Low-fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave.
 
-[Learn more about testing the wireflow of my low-fidelity prototype.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-06/README.md)
+The objective of developing a low-fidelity prototype and testing the wireflow is to document the flow of three key features of the Co—Star app. The prototype displays what pages a user will encounter as they perform each of these three tasks, and the wireflow documents how a user would navigate the app. Low-fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave.[Learn more about testing the wireflow of my low-fidelity prototype.](https://github.com/jasdyperillo/DH-150/blob/master/Assignment-06/README.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 ![Hi-fidelity prototype](https://camo.githubusercontent.com/ccb1c66328d582fa938ec8d04b3f1ac6f9ec537a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3156364157616d723662564b6a30586d5363524c714a6c536f52326c754a4c4b72)
 
-Through user research, evaluations, and feedback, I have created a high fidelity prototype which visualizes my re-design of the app. Incorporating what I've learned and discovered in earlier weeks, I implemented changes to the app's current design to hopefully improve user experience and increase user engagement.[Learn more about my high-fidelity prototype.](https://github.com/jasdyperillo/DH-150/tree/master/Assignment-08)
+Through user research, evaluations, and feedback, I have created a high fidelity prototype which visualizes my re-design of the app. Incorporating what I've learned and discovered in earlier weeks, I implemented changes to the app's current design to hopefully improve user experience and increase user engagement. [Learn more about my high-fidelity prototype.](https://github.com/jasdyperillo/DH-150/tree/master/Assignment-08)
 
 ![Co—Star Hi-Fi Prototype](https://camo.githubusercontent.com/21b68474531bdc63d4bf558277fd900c9dd0e90a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3179687842323063484a796b5a4753436162687055765647714346615f45463169)
 
