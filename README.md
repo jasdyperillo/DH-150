@@ -62,7 +62,7 @@ Through user research, evaluations, and feedback, I have created a high fidelity
 [View my interactive prototype.](https://xd.adobe.com/view/25be15e8-cb15-430b-739a-f08c0417a2c8-538f/)
 
 ## Pitch video 
-[![Pitch Video](http://img.youtube.com/vi/zu-DvNRQyAQ/0.jpg)](https://www.youtube.com/watch?v=zu-DvNRQyAQ"DH 150 Web Presentation — Jasdy Perillo")
+[![Pitch Video](http://img.youtube.com/vi/zu-DvNRQyAQ/0.jpg)](https://www.youtube.com/watch?v=zu-DvNRQyAQ"DH 150 Web Presentation — Jasdy Perillo")]
 
 ## Conclusion: what did you learn throughout the process?
 This process was such an eye-opening learning experience. Throughout each phase of my project, I learned that what I—and many others—intuitively notice about an app or website come from an instinct that we should trust and lean into. While I would have loved to continue developed a more refined high-fidelity prototype, I am grateful for the opportunity to learn about web/app design, especially in regards to accessibility. In fact, ever since covering color and font accessibility, it has become the first thought in my mind whenever I go onto a new website or download a new app. Most importantly, what I learned to love about the process is that truly, in UX/UI, there is _always_ room for improvement, which is something I really admire about the field.
