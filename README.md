@@ -8,8 +8,8 @@ This project focuses on the mobile app user experience for Co—Star, an app tha
 The main issue with the Co—Star app is that its interface is not intuitive enough. Accessing certain features or information can be quite difficult on the user's end, which is important to fix for an app like Co—Star which relies heavily on written text as its main content as opposed to images, videos, etc. Astrology in particular poses unique challenges because it is always changing: a person's horoscope is different every day as the planets and stars move and change position in space. As a result, astrology can often times feel overwhelming because of how dense the information is. Throughout my project, my objective was to streamline the user experience as much as possible in order to maximize the accessibility of the astrological information and services provided by the app. 
 
 ## Heuristics evaluations and usability testing [assignment01 & 02]:
-Co—Star App | UCLA SafeRide App|
-------------|------------------|
+Co—Star App | UCLA SafeRide App
+------------|------------------
 ![Co—Star App](https://www.costarastrology.com/ae79d1856d442121e3193ec45552b22e.png)|![UCLA SafeRide App](https://drive.google.com/uc?id=1VkNl9y5_Y07X-yzWwfkaPe04EwyaRhyn)|
 
 I chose the UCLASafeRide app because I am part of the community who uses the app—the UCLA community. I think it's important that services like UCLA Safe Ride exist because it contributes to the safety and accessibility of life at UCLA for students, faculty, staff, and more. To me, apps like UCLA Safe Ride are crucial because they contribute to the UCLA experience. For example, I can catch a van ride back to my apartment after a late night meeting on campus with my roommates or friends. I can use it to go visit Ralph's where I sometimes do my grocery shopping. This app shapes how I, and many fellow students, experience UCLA, because without it, I might not be able to attend on-campus events at night, given how far I live. The service that UCLA Safe Ride provides is integral to the UCLA community.
